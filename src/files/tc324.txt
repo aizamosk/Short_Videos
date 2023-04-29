@@ -2,4 +2,7 @@
 
 testing function
 
-smoke chnage
+smoke change
+
+
+updated to jira
